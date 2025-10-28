@@ -199,9 +199,8 @@ elif stego_type == "Audio":
 
 
 # ========== VIDEO STEGANOGRAPHY ==========
-elif stego_type == "Video":
-    st.header("🎬 Video Steganography")
-    st.markdown("Hide secret data inside video files")
+"""#elif stego_type == "Video":
+ ##  st.markdown("Hide secret data inside video files")
     
     if mode == "Encode (Hide)":
         col1, col2 = st.columns(2)
@@ -269,7 +268,7 @@ elif stego_type == "Video":
                 except Exception as e:
                     st.error(f"❌ Error: {str(e)}")
             else:
-                st.warning("⚠️ Please upload a stego video")
+                st.warning("⚠️ Please upload a stego video") """
 
 
 # ========== TEXT STEGANOGRAPHY ==========
