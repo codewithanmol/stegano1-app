@@ -1,7 +1,7 @@
 """
 Video Steganography using frame-based LSB technique
 """
-import cv2
+"""import cv2
 import numpy as np
 from crypto_utils import CryptoUtils
 import tempfile
@@ -189,3 +189,4 @@ class VideoSteganography:
             secret_data = CryptoUtils.decrypt(secret_data, password)
         
         return secret_data
+"""
