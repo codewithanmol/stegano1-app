@@ -1,1 +1,0 @@
-This is a comprehensive steganography tool built with Python and Streamlit that enables users to hide and extract secret data across multiple media types including images, audio files, video files, text, network packets, and even emojis.
