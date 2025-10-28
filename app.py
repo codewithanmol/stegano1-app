@@ -13,7 +13,7 @@ import os
 from image_stego import ImageSteganography
 from audio_stego import AudioSteganography
 from text_stego import TextSteganography
-from video_stego import VideoSteganography
+#from video_stego import VideoSteganography
 from network_stego import NetworkSteganography
 from file_folder_stego import FileFolderSteganography, EmojiSteganography
 
