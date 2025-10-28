@@ -1,7 +1,7 @@
 """
 Video Steganography using frame-based LSB technique
 """
-import cv2
+import cv2 # type: ignore
 import numpy as np
 from crypto_utils import CryptoUtils
 import tempfile
