@@ -272,7 +272,7 @@ elif stego_type == "Audio":
 
 
 # ========== TEXT STEGANOGRAPHY ==========
-elif stego_type == "Text":
+elif stego_type == "Text":\
     st.header("📝 Text Steganography")
     st.markdown("Hide secret data in plain text using zero-width characters")
     
